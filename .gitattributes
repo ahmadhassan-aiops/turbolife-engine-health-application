@@ -1,0 +1,3 @@
+*.parquet binary
+*.joblib binary
+*.txt text eol=lf
